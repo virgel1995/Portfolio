@@ -35,13 +35,13 @@ const launchpadApps: LaunchpadData[] = [
     id: "what-if",
     title: "My Notebook",
     img: "img/icons/launchpad/notebook.png",
-    link: "https://note.zxh.io"
+    link: "https://note.portfolio-virgel1995.vercel.app"
   },
   {
     id: "cube",
     title: "Cube Solver",
     img: "img/icons/launchpad/cube.png",
-    link: "https://cube.zxh.io/"
+    link: "https://cube.portfolio-virgel1995.vercel.app/"
   },
   {
     id: "resume",
